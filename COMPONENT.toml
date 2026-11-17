@@ -3,7 +3,7 @@ name = "SigmaOS-arch-shader-anti-patterns-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-shader-anti-patterns-kernel component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
